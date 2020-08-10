@@ -12,6 +12,7 @@ echo "update from web";
 echo "update from server2";
 echo "update from web2 - used fetch then merge";
 echo "update from web3 - use [pull";
+echo "update from server 3 - bob branch";
 phpinfo();
 
 ?>
