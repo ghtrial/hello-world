@@ -10,7 +10,8 @@ echo "branch6 - automaticcally for 24";
 echo "update from server";
 echo "update from web";
 echo "update from server2";
-echo "update from web2";
+echo "update from web2 - used fetch then merge";
+echo "update from web3 - use [pull";
 phpinfo();
 
 ?>
