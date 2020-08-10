@@ -7,6 +7,7 @@ echo "branch3";
 echo "branch4";
 echo "branch5";
 echo "branch6 - automaticcally for 24";
+echo "update from server";
 phpinfo();
 
 ?>
