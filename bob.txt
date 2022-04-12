@@ -7,3 +7,4 @@ just want to autmotically change item 30 to done column - no branch, just to mas
 4 add another Mar 18/22 8:44
 5 add another Mar 18/22 9:46
 6 add another mar 18/22 10:14
+7 add another mar 18/22 10:23
